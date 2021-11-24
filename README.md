@@ -1,11 +1,10 @@
 # Hi there, I'm Luiz Henrique Ferreira
-### I'm 23 years old, I like to solve problems and improve solutions, I'm always learning new technologies.
 
 <div>
   <a href="https://github.com/LhuizF">
   <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=LhuizF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LhuizF&langs_count=7&theme=tokyonight"/>
-  </div>
+ </div>
 
 ## ⚡ My skills
 <img height='32px' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' />
@@ -16,7 +15,7 @@
 <img height='32px' src='https://img.shields.io/badge/-Git-f34f28?logo=git&logoColor=white&style=for-the-badge' />
 
 ## 👀 About me:
-📚 I’m currently learning React\
+📚 I’m currently learning React and TypeScript\
 🎓 Information Systems (2/8)\
 🐱‍🐉 I love cats and dinos\
 🤖 Lover for Bots\

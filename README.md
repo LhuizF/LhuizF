@@ -16,7 +16,7 @@
 
 ## 👀 About me:
 📚 I’m currently learning React and TypeScript\
-🎓 Information Systems (2/8)\
+🎓 Information Systems (3/8)\
 🐱‍🐉 I love cats and dinos\
 🤖 Lover for Bots\
 🕹️ When I'm not programming or studying, I'm watching Esports

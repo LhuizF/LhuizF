@@ -13,6 +13,7 @@
 <img height='32px' src='https://img.shields.io/badge/Node.js-3F883D?style=for-the-badge&logo=node.js&logoColor=white' /> 
 <img height='32px' src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge' /> 
 <img height='32px' src='https://img.shields.io/badge/-Git-f34f28?logo=git&logoColor=white&style=for-the-badge' />
+<i class="devicon-react-original-wordmark colored"></i>
 
 ## 👀 About me:
 📚 I’m currently learning React and TypeScript\

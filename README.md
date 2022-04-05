@@ -5,8 +5,7 @@
   <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=LhuizF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LhuizF&langs_count=4&theme=tokyonight"/>
 </div>
-<br>
-<img style="margin-left: auto;margin-right: auto;" heicht="160" src="https://github-readme-streak-stats.herokuapp.com?user=LhuizF&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D">
+
 
 ## ⚡ My skills
 <img height='32px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' />
@@ -38,3 +37,5 @@
     <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+<br>
+  <img style="margin-left: auto;margin-right: auto;" heicht="160" src="https://github-readme-streak-stats.herokuapp.com?user=LhuizF&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D">

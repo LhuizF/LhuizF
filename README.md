@@ -1,4 +1,4 @@
-# Hi there, I'm Luiz Henrique Ferreira
+# Hi there, I'm Luiz Henrique Ferreira <img src="https://emojis.slackmojis.com/emojis/images/1577982316/7421/typingcat.gif?1577982316" width="30"/>
 
 <div>
   <a href="https://github.com/LhuizF">

@@ -18,6 +18,7 @@
   <img height='32px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img height='32px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
 </div>
+
 ## 👀 About me
 💻 I currently work with next.js and node.js\
 🎓 Information Systems (4/8)\

@@ -8,15 +8,16 @@
 
 
 ## ⚡ My skills
-<img height='32px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' />
-<img height='32px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img height='32px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img height='32px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' />
-<img height='32px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' />
-<img height='32px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' />
-<img height='32px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<div> 
+  <img height='32px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' />
+  <img height='32px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height='32px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height='32px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' />
+  <img height='32px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' />
+  <img height='32px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' />
+  <img height='32px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img height='32px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
-
+</div>
 ## 👀 About me
 💻 I currently work with next.js and node.js\
 🎓 Information Systems (4/8)\

@@ -21,7 +21,7 @@
 
 ## 👀 About me
 💻 I currently work with next.js and node.js\
-🎓 Information Systems (4/8)\
+🎓 Software engineering
 🐱‍🐉 I love cats and dinos\
 🤖 Lover for Bots\
 🕹️ When I'm not programming or studying, I'm watching Esports
